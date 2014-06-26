@@ -21,5 +21,9 @@ This group is set up for making world description of game we make now
 
 关于文件结构
 为方便修改阅览进行了大致归类
+使用的文件是.md,(markdown)类型，方便编辑阅读
+>md是一种标记语言，方便排版，使用[教程](http://wowubuntu.com/markdown/ "网上随便找的")，[在线编辑器](http://mahua.jser.me "可以导出文件的一个")，离线编辑器有很多，搜下markdown就行了
 
 =================
+我觉得可以考虑下wiki功能的使用
+------------
