@@ -18,7 +18,8 @@ This group is set up for making world description of game we make now
 6、若想参与修改可以在github上被拉。
 
 =================
-
+md文件的编辑方法介绍
+-----------------
 关于文件结构
 为方便修改阅览进行了大致归类
 使用的文件是.md,(markdown)类型，方便编辑阅读
@@ -26,4 +27,4 @@ This group is set up for making world description of game we make now
 
 =================
 我觉得可以考虑下wiki功能的使用
-------------
+-----------------
